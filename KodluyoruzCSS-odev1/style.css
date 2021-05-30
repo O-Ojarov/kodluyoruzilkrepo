@@ -1,0 +1,79 @@
+body{
+    background-image: url(istockphoto-911112930-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: inherit;
+    text-align: center;
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+.lis{
+    display: inline;
+    padding: 5px 10px;
+    margin: 0px;
+    background-color: rgb(124, 76, 76);
+    background-size: 25px;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration-color: cornflowerblue;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: tan;
+}
+
+.list{
+    margin: 0px 380px;
+    text-decoration: none;
+}
+
+.lis a{
+    text-decoration: none;
+}
+h3{
+    font-family: cursive;
+    font-size: 30px;
+    margin: 5px 320px;
+    color:darkslategrey;
+    text-decoration: underline;
+    text-shadow: wheat;
+
+}
+.ins{
+    font-size: 25px;
+    margin: 0px 500px;
+    background-color: brown;
+    background-size: 30px;
+    text-align: center;
+    
+}
+.insname a{
+    text-decoration: none;
+    
+}
+.insname a:hover{
+    text-decoration: cadetblue;
+    text-decoration: underline;
+}
+.pic{
+    margin: 0px 200px ;   
+}
+
+.con{
+    font-size: 25px;
+    margin: 0px 500px;
+}
+form{
+    margin: 0px 530px;
+}
+
+
+   
